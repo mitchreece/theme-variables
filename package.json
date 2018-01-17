@@ -1,0 +1,9 @@
+{
+  "name": "@mitchreece/theme-variables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A collection of variables for personal themes",
+  "repository": "git@github.com:mitchreece/theme-variables.git",
+  "author": "Mitch Reece <mitchellreeece18@gmail.com>",
+  "license": "MIT"
+}
